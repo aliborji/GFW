@@ -1,7 +1,18 @@
 # GFW
 Generated Faces in the Wild Dataset and Code
 
+
+
 Data is available at 
+
+
+
+by [Ali Borji](https://github.com/aliborji)]
+
+
+
+
+## Code overview
 
 
 
