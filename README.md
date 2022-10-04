@@ -13,7 +13,7 @@ Data is available at [link](https://drive.google.com/file/d/1EhbUK64J3d0_chmD2mp
 If you use this code in your research, please cite this project.
 
 ```
-@inproceedings{borji2022SplitMixer,
+@inproceedings{borjiGFW,
 title={Generated Faces in the Wild: Quantitative Comparison of Stable Diffusion, Midjourney and DALL-E 2},
 author={Ali Borji},
 booktitle={Arxiv},
